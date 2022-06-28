@@ -27,6 +27,12 @@ namespace RattrapageAmauryMASSON
 
         }
 
+       
 
+    }
+
+    public double ObtenirNoteMoyenne(StudentGrade otherGrade )
+    {
+        return Math
     }
 }
